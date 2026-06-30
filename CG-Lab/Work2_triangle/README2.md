@@ -1,5 +1,4 @@
 ![alt text](triangle.gif)
-<img width="480" height="501" alt="triangle" src="https://github.com/user-attachments/assets/d5a7e3f2-3d13-48a3-a81f-28b90172ab64" />
 
 这是一个基于 Taichi 编程语言实现的 3D 三角形旋转变换可视化程序，通过 MVP（Model-View-Projection）矩阵变换链，将 3D 空间中的三角形投影到 2D 屏幕并实时渲染，支持通过键盘控制三角形的旋转角度。
 功能说明
